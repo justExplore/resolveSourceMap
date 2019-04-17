@@ -12,7 +12,7 @@
 
 ## Options
 
-- [mapFilePath] sourceMap本地文件路径（绝对地址）
+- [mapFilePath] sourceMap本地文件路径（绝对地址）
 - [lineNumber] 原错误行号
 - [columnNumber] 原错误列号
 
