@@ -1,8 +1,12 @@
 {
   "name": "analysis_sourcemap_error",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "resolve source map original position",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justExplore/resolveSourceMap.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
