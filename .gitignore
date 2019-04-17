@@ -1,0 +1,7 @@
+#some local files
+*/.idea/
+.idea/
+*/.DS_Store
+.DS_Store
+node_modules
+package-lock.json
