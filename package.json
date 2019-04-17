@@ -1,10 +1,13 @@
 {
-  "name": "resolve_sourcemap",
-  "version": "1.0.0",
+  "name": "analysis_sourcemap_error",
+  "version": "1.0.3",
   "description": "resolve source map original position",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "resolveSourceMap": "./resolveSourceMap.js"
   },
   "keywords": [
     "resolve",
@@ -14,7 +17,7 @@
   ],
   "author": "wenfeng",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "source-map": "^0.7.3"
   }
 }
